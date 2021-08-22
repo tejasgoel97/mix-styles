@@ -1,0 +1,27 @@
+{
+  "name": "mix-styles",
+  "version": "1.0.0",
+  "description": "package helps you to combine the classnames from your css modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasgoel97/mix-styles.git"
+  },
+  "keywords": [
+    "combine",
+    "css",
+    "styles",
+    "in",
+    "your",
+    "classname"
+  ],
+  "author": "tejas goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejasgoel97/mix-styles/issues"
+  },
+  "homepage": "https://github.com/tejasgoel97/mix-styles#readme"
+}
